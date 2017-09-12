@@ -1,4 +1,4 @@
-# SWT2 2016/17 - Introductory Exercise
+# SWT2 2016/17 - Introductory Exercise  
 
 We prepared an application skeleton for you that has a failing test case.
 
